@@ -19,9 +19,9 @@ This script processes applicant data for the Umuzi recruitment pipeline. It clea
 
 ## Project Structure
 ```
-├── applicants_selection.py <br>
-├── recruitment.xlsx <br>
-├── requirements.txt <br>
+├── applicants_selection.py 
+├── recruitment.xlsx 
+├── requirements.txt 
 └── README.md
 ```
 
